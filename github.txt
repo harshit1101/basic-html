@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head><h1><font face="AR DESTINE" color="GREEN"><b><u><i><center></center></i></u></b></font></h1>
+<title></title>
+<body bgcolor="YELLOW">
+<font face="Monotype Corsiva" size="5" color="RED">
+<table border="1" align="center">
+<font size="6"></font>
+<caption></caption>
+<tr>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+<video width="320" height="240" controls>
+<source src="C:\Users\harshit.jain\Downloads\Jim_Yosef_Anna_Yvette_-_Courage_NCS_Release[MakeItMp3].mp4">
+</video>
+<br>
+<img src="C:\Users\harshit.jain\Downloads\harshit.jpg" height="1000" width="1000" aling="center">
+<form>
+<fieldset>
+<legend></legend>
+Name:<input type="text"><br>
+Email: <input type="text"><br>
+</fieldset>
+</form> 
+Thank you
+<nav>
+<a href=>FutureTech</a> 
+</nav>
+</font>
+</body>
+</head>
+</html>
